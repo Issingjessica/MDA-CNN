@@ -1,0 +1,410 @@
+(lp0
+S'medulloblastoma'
+p1
+aS'adenocarcinoma'
+p2
+aS'adrenocortical carcinoma'
+p3
+aS'barrett esophagus'
+p4
+aS'colorectal neoplasms'
+p5
+aS'endometriosis'
+p6
+aS'eosinophilic esophagitis'
+p7
+aS'ependymoma'
+p8
+aS'esophageal neoplasms'
+p9
+aS'head and neck neoplasms'
+p10
+aS'lung neoplasms'
+p11
+aS'lymphoma'
+p12
+aS'melanoma'
+p13
+aS'mouth neoplasms'
+p14
+aS'multiple myeloma'
+p15
+aS'prostatic neoplasms'
+p16
+aS'psoriasis'
+p17
+aS'colonic neoplasms'
+p18
+aS'endometrial neoplasms'
+p19
+aS'glioblastoma'
+p20
+aS'heart failure'
+p21
+aS'hodgkin disease'
+p22
+aS'lupus erythematosus, systemic'
+p23
+aS'nasopharyngeal neoplasms'
+p24
+aS'nephrosclerosis'
+p25
+aS'parkinson disease'
+p26
+aS'stomach neoplasms'
+p27
+aS'autistic disorder'
+p28
+aS'azoospermia'
+p29
+aS'burkitt lymphoma'
+p30
+aS'coronary artery disease'
+p31
+aS'hemangiosarcoma'
+p32
+aS'hematologic neoplasms'
+p33
+aS'leukemia'
+p34
+aS'mesothelioma'
+p35
+aS'muscular dystrophy, facioscapulohumeral'
+p36
+aS'mycosis fungoides'
+p37
+aS'myocardial infarction'
+p38
+aS'neuroblastoma'
+p39
+aS'osteosarcoma'
+p40
+aS'polycystic kidney diseases'
+p41
+aS'retinoblastoma'
+p42
+aS'schizophrenia'
+p43
+aS'cholangiocarcinoma'
+p44
+aS'fibrosarcoma'
+p45
+aS'glioma'
+p46
+aS'hepatitis b'
+p47
+aS'neoplasms, germ cell and embryonal'
+p48
+aS'precursor b-cell lymphoblastic leukemia-lymphoma'
+p49
+aS'testicular neoplasms'
+p50
+aS'hepatitis, chronic'
+p51
+aS'liver neoplasms'
+p52
+aS'diabetes mellitus'
+p53
+aS'gastrointestinal neoplasms'
+p54
+aS'salivary gland neoplasms'
+p55
+aS'mastocytosis, systemic'
+p56
+aS'myotonic dystrophy'
+p57
+aS'asthma'
+p58
+aS'atherosclerosis'
+p59
+aS'cardiomyopathy, dilated'
+p60
+aS'crohn disease'
+p61
+aS'inflammation'
+p62
+aS'ischemia'
+p63
+aS'kidney diseases'
+p64
+aS'vascular diseases'
+p65
+aS'brain neoplasms'
+p66
+aS'atrial fibrillation'
+p67
+aS'hamartoma syndrome, multiple'
+p68
+aS'lung diseases, interstitial'
+p69
+aS'inflammatory bowel diseases'
+p70
+aS'periodontitis'
+p71
+aS'tuberculosis, pulmonary'
+p72
+aS'kidney failure, chronic'
+p73
+aS'acquired immunodeficiency syndrome'
+p74
+aS'aortic aneurysm, thoracic'
+p75
+aS'biliary atresia'
+p76
+aS'carcinoma, small cell'
+p77
+aS'fibrosis'
+p78
+aS'hepatitis c'
+p79
+aS'liver cirrhosis'
+p80
+aS'liver diseases'
+p81
+aS'multiple sclerosis'
+p82
+aS'muscular dystrophy, duchenne'
+p83
+aS'pre-eclampsia'
+p84
+aS'rhabdomyosarcoma'
+p85
+aS'meningioma'
+p86
+aS'endomyocardial fibrosis'
+p87
+aS'irritable bowel syndrome'
+p88
+aS'acute coronary syndrome'
+p89
+aS'cardiomegaly'
+p90
+aS'chordoma'
+p91
+aS'hypertrophy'
+p92
+aS'retinal degeneration'
+p93
+aS'cocaine-related disorders'
+p94
+aS'astrocytoma'
+p95
+aS'fanconi anemia'
+p96
+aS'sepsis'
+p97
+aS'sezary syndrome'
+p98
+aS'cardiomyopathies'
+p99
+aS'hepatoblastoma'
+p100
+aS'huntington disease'
+p101
+aS'reperfusion injury'
+p102
+aS'retinal neovascularization'
+p103
+aS'dementia'
+p104
+aS'psychotic disorders'
+p105
+aS'brain ischemia'
+p106
+aS'kidney failure, acute'
+p107
+aS'sarcoma'
+p108
+aS'cerebral hemorrhage'
+p109
+aS'rectal neoplasms'
+p110
+aS'cervical intraepithelial neoplasia'
+p111
+aS'child development disorders, pervasive'
+p112
+aS'gout'
+p113
+aS'neurilemmoma'
+p114
+aS'neurofibromatosis 2'
+p115
+aS'rhinitis, allergic, perennial'
+p116
+aS'waldenstrom macroglobulinemia'
+p117
+aS'aortic valve insufficiency'
+p118
+aS'aortic valve stenosis'
+p119
+aS'tongue neoplasms'
+p120
+aS'liver failure'
+p121
+aS'prion diseases'
+p122
+aS'skin neoplasms'
+p123
+aS'pheochromocytoma'
+p124
+aS'obesity'
+p125
+aS'pituitary neoplasms'
+p126
+aS'diabetic retinopathy'
+p127
+aS'prolactinoma'
+p128
+aS'fatty liver'
+p129
+aS'pain'
+p130
+aS'dyslipidemias'
+p131
+aS'vascular calcification'
+p132
+aS'periodontal diseases'
+p133
+aS'hiv infections'
+p134
+aS'myocarditis'
+p135
+aS'polycythemia vera'
+p136
+aS'lupus nephritis'
+p137
+aS'digestive system neoplasms'
+p138
+aS'liposarcoma'
+p139
+aS'long qt syndrome'
+p140
+aS'osteoporosis'
+p141
+aS'amyloidosis'
+p142
+aS'multiple endocrine neoplasia type 1'
+p143
+aS'acth-secreting pituitary adenoma'
+p144
+aS'arthritis'
+p145
+aS'arthritis, psoriatic'
+p146
+aS'myocardial ischemia'
+p147
+aS'graves disease'
+p148
+aS'cataract'
+p149
+aS'cholesteatoma'
+p150
+aS'abortion, habitual'
+p151
+aS'cerebral infarction'
+p152
+aS'keloid'
+p153
+aS'moyamoya disease'
+p154
+aS'vitiligo'
+p155
+aS'anxiety disorders'
+p156
+aS'alopecia'
+p157
+aS'dermatitis, atopic'
+p158
+aS'nasal polyps'
+p159
+aS'acute lung injury'
+p160
+aS'autoimmune diseases'
+p161
+aS'fatty liver, alcoholic'
+p162
+aS'lymphoproliferative disorders'
+p163
+aS'demyelinating diseases'
+p164
+aS'neoplasms, glandular and epithelial'
+p165
+aS'myopia'
+p166
+aS'heart diseases'
+p167
+aS'angina, unstable'
+p168
+aS'adenoma'
+p169
+aS'albuminuria'
+p170
+aS'aortic aneurysm, abdominal'
+p171
+aS'carcinoma, endometrioid'
+p172
+aS'cardiovascular diseases'
+p173
+aS'leprosy'
+p174
+aS'lymphoma, non-hodgkin'
+p175
+aS'myocardial reperfusion injury'
+p176
+aS'neutropenia'
+p177
+aS'pulmonary fibrosis'
+p178
+aS'panic disorder'
+p179
+aS'myositis ossificans'
+p180
+aS'hypoxia-ischemia, brain'
+p181
+aS'stomach diseases'
+p182
+aS'carotid artery diseases'
+p183
+aS'hyperglycemia'
+p184
+aS'precursor t-cell lymphoblastic leukemia-lymphoma'
+p185
+aS'metabolic diseases'
+p186
+aS'intracranial aneurysm'
+p187
+aS'lymphoma, extranodal nk-t-cell'
+p188
+aS'frontotemporal lobar degeneration'
+p189
+aS'intellectual disability'
+p190
+aS'oligodendroglioma'
+p191
+aS'fragile x syndrome'
+p192
+aS'pulmonary embolism'
+p193
+aS'lung diseases'
+p194
+aS'behcet syndrome'
+p195
+aS'colitis'
+p196
+aS'cystic fibrosis'
+p197
+aS'down syndrome'
+p198
+aS'gastritis, atrophic'
+p199
+aS'renal insufficiency'
+p200
+aS"sjogren's syndrome"
+p201
+aS'chlamydia infections'
+p202
+aS'eczema'
+p203
+aS'gerstmann-straussler-scheinker disease'
+p204
+a.
