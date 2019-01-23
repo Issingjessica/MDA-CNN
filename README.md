@@ -23,10 +23,15 @@ it contains three steps.
  ####
 To run the MDA-CNN, you need these packages:
  networkx
+ 
  tensorflow
+ 
  numpy 
+ 
  sklearn
+ 
  pandas 
+ 
  matplotlib
 
 
