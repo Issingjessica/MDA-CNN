@@ -17,7 +17,7 @@ it contains three steps.
 
  In the source code folder, the three steps correspond to "regression", "autoencoder" and "CNN" respectively. The user can apply the whole framework to their interested dataset or only use part of the framework. 
 
- MDA-CNN was implemented with Python 3.6.1. If you have any question or need any technical support, please contact Weiwei Hui (wwhui AT mail DOT nwpu DOT edu DOT cn) and Jiajie Peng (jiajiepeng AT mail DOT nwpu DOT edu DOT cn). 
+ MDA-CNN was implemented with Python 3.6.1. If you have any question or need any technical support, please contact Weiwei Hui (wwhui AT mail DOT nwpu DOT edu DOT cn) and Jiajie Peng (jiajiepeng AT nwpu DOT edu DOT cn). 
  
  
  ####
